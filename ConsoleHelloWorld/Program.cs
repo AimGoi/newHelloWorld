@@ -13,6 +13,10 @@ namespace ConsoleHelloWorld
             Console.WriteLine("Hello World");
 
             Console.ReadLine();
+
+            Console.WriteLine("Hello World again");
+
+            Console.ReadLine();
         }
     }
 }
